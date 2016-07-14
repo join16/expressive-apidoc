@@ -1,0 +1,29 @@
+{
+  "name": "expressive-apidoc",
+  "version": "0.0.1",
+  "description": "expressive-route apidoc integration",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/join16/expressive-apidoc.git"
+  },
+  "keywords": [
+    "express",
+    "expressive-route",
+    "apidoc",
+    "api"
+  ],
+  "author": "Join",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/join16/expressive-apidoc/issues"
+  },
+  "homepage": "https://github.com/join16/expressive-apidoc#readme"
+}
