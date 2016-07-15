@@ -3,3 +3,12 @@
 .DS_Store
 
 node_modules
+
+apidoc-inputs/*
+docs/
+
+# for test purpose
+test.js
+api.json
+
+!.keep
