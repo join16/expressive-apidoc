@@ -1,6 +1,6 @@
 {
   "name": "expressive-apidoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "expressive-route apidoc integration",
   "main": "index.js",
   "dependencies": {
